@@ -1,1 +1,2 @@
 Estructura inicial del proyecto
+Añadido archivo .gitignore
